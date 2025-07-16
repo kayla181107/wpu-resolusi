@@ -1,0 +1,4 @@
+RENCANA TUTORIAL HTML
+- Mempelajari dasar HTML
+- Mencoba latihan
+- Membuat projek
