@@ -2,7 +2,10 @@ RENCANA TUTORIAL HTML
 - Mempelajari dasar HTML
  * mengganti warna
  * mengganti font
+   ^berbagai macam bentuk
 - Memperdalam materi HTML
 - Mencoba latihan
- * dari materi dasar
+  * dari materi dasar 
+- Membuat projek
+- Menggabungkan HTML dan CSS
 
