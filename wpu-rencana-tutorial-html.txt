@@ -4,4 +4,5 @@ RENCANA TUTORIAL HTML
  * mengganti font
 - Memperdalam materi HTML
 - Mencoba latihan
-- Membuat projek
+ * dari materi dasar
+
