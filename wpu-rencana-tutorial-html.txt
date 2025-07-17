@@ -3,6 +3,7 @@ RENCANA TUTORIAL HTML
  * mengganti warna
  * mengganti font
    ^berbagai macam bentuk
+   ^Angular
 - Memperdalam materi HTML
 - Mencoba latihan
   * dari materi dasar 
